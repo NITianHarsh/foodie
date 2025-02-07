@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+#foodItem::-webkit-scrollbar {
+    display: none;
+  }
